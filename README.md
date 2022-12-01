@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed9019&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed9019&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-
+ -->
 # Lets connect:
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmedmedhat9091/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="30" width="30" /></a>
